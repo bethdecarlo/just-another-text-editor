@@ -11,7 +11,7 @@ A text editor application that runs in the browser that meets PWA criteria. It f
 
 ## Table of Contents
 - [Installation](#installation)
-    -[Screenshot](#screenshot)
+    - [Screenshot](#screenshot)
 - [Usage](#usage)
     - [Website](#website)
     - [Developer](#local)
